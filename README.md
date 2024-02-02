@@ -1,5 +1,8 @@
 # Scraping using Scrapy Python
 
+## Target
+<https://books.toscrape.com/>
+
 ## What data we extract ?
 We extract all information of the books in the web.
 
